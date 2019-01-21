@@ -1,2 +1,2 @@
 # Possibilities-Tree
-This is java implementation for the tree in the pic. In this tree, each Node is a vector of integers of certain length (m), and each index of that vector will have a Vector child of size(m-1) ..So the whole vector will have vector children equal to its length. and so on.  This implementation is missing value insertion in each vector node. 
+This is a java implementation for the tree in the TreePic.png.  In this tree, each Node is a vector of integers of certain length (m), and each index of that vector will have a Vector child of size(m-1). So each vector in the tree  will have vector children equal to its length. and so on.  The root is one vector of size (m). This implementation is missing value insertion in each vector node. 
